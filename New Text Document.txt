@@ -1,0 +1,3 @@
+https://forkify-lizi.netlify.app/ 
+
+this is the public URL
